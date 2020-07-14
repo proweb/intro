@@ -1,8 +1,9 @@
 # Hello world!
 
-My name is Sergey. I'm PHP developer in HiEd. I've developed sites for [Kazan Federal University](https://kpfu.ru/)
+My name is Sergey. I'm a full-stack developer based in Kazan, Russia. 
 
-You can follow me on: 
+Get in touch: 
+- [Personal Blog](https://newwebmaster.ru/)
 - [Twitter](https://twitter.com/vyatka)
 - [Facebook](https://www.facebook.com/sergey.mo)
 - [Codepen](https://codepen.io/proweb)
