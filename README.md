@@ -1,4 +1,4 @@
-# Hello world!
+**Hello world 👋**
 
 My name is Sergey. I'm a full-stack developer based in Kazan, Russia. 
 
