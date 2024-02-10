@@ -1,6 +1,6 @@
-**Hello world 👋**
+**Hello, World!**
 
-My name is Sergey. I'm a full-stack developer based in Kazan, Russia. 
+My name is Sergey. I'm a full stack developer based in Kazan, Russia. 
 
 Get in touch: 
 - [Personal Blog](https://newwebmaster.ru/)
